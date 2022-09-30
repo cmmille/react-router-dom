@@ -1,0 +1,19 @@
+.product{
+    width: 200px;
+    height: 400px;
+    border: solid 1px #95bcf0;
+    border-radius: 6px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.product h1 {
+    font-size: 1.25rem;
+    color: #044599;
+}
+
+.product p {
+    font-size: 1rem;
+    font-weight: 600;
+}
