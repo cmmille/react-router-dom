@@ -1,7 +1,6 @@
 {
-  "name": "react-complete-guide",
+  "name": "react-router-dom",
   "version": "0.1.0",
-  "homepage": "https://cmmille.github.io/react-router-dom",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",

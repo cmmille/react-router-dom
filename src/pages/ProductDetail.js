@@ -12,7 +12,7 @@ const ProductDetail = () => {
             <h1> {product.name} </h1>
             <h2> {product.price} </h2>
             <div className={classes['product-block']}>
-                <img src={product.image} alt="image of fruit" />
+                <img src={product.image} alt="basket of fruit" />
                 <p>
                     Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iste, alias maiores accusamus quae rerum modi exercitationem quaerat autem ipsum sed quod labore, excepturi non repellendus beatae voluptatibus, laborum rem asperiores.
                 </p>

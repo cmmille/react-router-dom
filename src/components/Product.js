@@ -7,7 +7,7 @@ const Product = (props) => {
 
     return (
         <div className={classes.product}>
-            <img src={props.image} />
+            <img src={props.image} alt="basket of fruit"/>
             <Link to={url}>
                 <h1> {props.name}</h1>
             </Link>
