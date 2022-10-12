@@ -1,10 +1,16 @@
+import { Link } from "react-router-dom";
+
 import classes from './Product.module.css'
+
 const Product = (props) => { 
+    const url = "/products/" + props.id
 
     return (
         <div className={classes.product}>
-            <img src='https://www.att.com/idpassets/global/devices/phones/apple/apple-iphone-14-pro-max/carousel/spaceblack/spaceblack-1.png' />
-            <h1> {props.name}</h1>
+            <img src={props.image} />
+            <Link to={url}>
+                <h1> {props.name}</h1>
+            </Link>
             <p> {props.price}</p>
         </div>
     )
