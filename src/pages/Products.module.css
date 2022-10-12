@@ -7,9 +7,14 @@
     flex-direction: row;
     flex-flow: row wrap;
     gap: 0.5rem;
-    max-width: 95%;
+    max-width: 80%;
     overflow: scroll;
-    background: white;
-    border-radius: 4px;
-    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    /* background: white; */
+    /* border-radius: 4px; */
+}
+
+@media (max-width: 768px) {
+    .products {
+        max-width: 95%;
+    }
 }
