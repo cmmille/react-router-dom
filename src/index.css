@@ -24,3 +24,17 @@ h3,
 p {
   color: #042b5f;
 }
+
+button {
+  background: #044599;
+  color: #e0e9f5;
+  padding: 0.5rem;
+  font-size: 2rem;
+  border-radius: 12px;
+  cursor: pointer;
+  border: none;
+}
+button:hover{
+  background: #042b5f;
+  color: #99c0f4;
+}
