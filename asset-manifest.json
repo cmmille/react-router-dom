@@ -1,13 +1,20 @@
 {
   "files": {
-    "main.css": "/react-router-dom/static/css/main.7806560c.css",
-    "main.js": "/react-router-dom/static/js/main.3a445de8.js",
+    "main.css": "/react-router-dom/static/css/main.0a969927.css",
+    "main.js": "/react-router-dom/static/js/main.7371fcd4.js",
+    "static/media/assorted2.png": "/react-router-dom/static/media/assorted2.60ca30a8d4e1e86b6287.png",
+    "static/media/berries.png": "/react-router-dom/static/media/berries.d2022ad05d0ba6ca7eec.png",
+    "static/media/coconuts.png": "/react-router-dom/static/media/coconuts.4660ed61b28e1c1965fa.png",
+    "static/media/pumpkins.png": "/react-router-dom/static/media/pumpkins.374da6826b41f057a6cf.png",
+    "static/media/assorted.png": "/react-router-dom/static/media/assorted.753b9fac53840b3c6108.png",
+    "static/media/citrus.png": "/react-router-dom/static/media/citrus.b09cfd0149cfac8e0870.png",
+    "static/media/pineapple.png": "/react-router-dom/static/media/pineapple.953472d798e28eb5f242.png",
     "index.html": "/react-router-dom/index.html",
-    "main.7806560c.css.map": "/react-router-dom/static/css/main.7806560c.css.map",
-    "main.3a445de8.js.map": "/react-router-dom/static/js/main.3a445de8.js.map"
+    "main.0a969927.css.map": "/react-router-dom/static/css/main.0a969927.css.map",
+    "main.7371fcd4.js.map": "/react-router-dom/static/js/main.7371fcd4.js.map"
   },
   "entrypoints": [
-    "static/css/main.7806560c.css",
-    "static/js/main.3a445de8.js"
+    "static/css/main.0a969927.css",
+    "static/js/main.7371fcd4.js"
   ]
 }
